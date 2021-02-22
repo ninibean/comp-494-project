@@ -1,4 +1,4 @@
-# Computer Science Office Hour Hub
+# Computer Science Office Hour Hub - COMP 494
 
 The project chosen for this semester is to develop a web application using React App.
 
@@ -14,4 +14,4 @@ The purpose of this web application is to provide students of the computer scien
 
 ## Progress (will be updated throughout the duration of this project)
 *Last Updated: Feburary 22, 2021*
-- [X]Created the repo
+- [x]Created the repo
