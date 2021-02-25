@@ -13,7 +13,7 @@ The purpose of this web application is to provide students of the computer scien
 
 
 ## Progress (will be updated throughout the duration of this project)
-*Last Updated: Feburary 22, 2021*
+*Last Updated: Feburary 24, 2021*
 - [x] Created the repo
-- [ ] Download React and neccessary tools
+- [x] Download React and neccessary tools
 - [ ] Create a simple page
