@@ -22,6 +22,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  /* padding-bottom: 200px; */
 }
 
 .App-link {
@@ -35,4 +36,33 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* TODO: Make rectangles responsive */
+
+.rect1 {
+  display: inline-block;
+  position: absolute;
+  width: 1440px;
+  height: 144px;
+  z-index: 2;
+  background: #004684
+}
+
+.rect2 {
+  display: inline-block;
+  position: relative;
+  width: 1400px;
+  height: 144px;
+  top: 45px;
+  /* left: -63px; */
+  z-index: 1;
+  background: #FDBA39;
+
+}
+
+.Welcome-Text {
+  /* height: 100em; */
+  padding-top: 200px;
+  position: relative;
 }
