@@ -19,4 +19,4 @@ The purpose of this web application is to provide students of the computer scien
 - [x] Created and succesfully ran a React App
 - [x] Created and successfully ran a Express.js App
 - [x] Successfully connect the backend (Express) with the frontend (React)
-- [ ] Create a simple page
+- [x] Create a simple page
