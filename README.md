@@ -13,7 +13,10 @@ The purpose of this web application is to provide students of the computer scien
 
 
 ## Progress (will be updated throughout the duration of this project)
-*Last Updated: Feburary 24, 2021*
+*Last Updated: March 7, 2021*
 - [x] Created the repo
 - [x] Download React and neccessary tools
+- [x] Created and succesfully ran a React App
+- [x] Created and successfully ran a Express.js App
+- [x] Successfully connect the backend (Express) with the frontend (React)
 - [ ] Create a simple page
