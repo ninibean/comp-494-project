@@ -11,12 +11,16 @@ The purpose of this web application is to provide students of the computer scien
 * Learn about React, a popular tool, and library used for web development
 * Create visually appealing webpages
 
+## UI Prototype
+To see my progress on the user interface, please click here: 
 
 ## Progress (will be updated throughout the duration of this project)
-*Last Updated: March 7, 2021*
+*Last Updated: March 19, 2021*
 - [x] Created the repo
 - [x] Download React and neccessary tools
 - [x] Created and succesfully ran a React App
 - [x] Created and successfully ran a Express.js App
 - [x] Successfully connect the backend (Express) with the frontend (React)
 - [x] Create a simple page
+- [ ] Create the landing page
+- [ ] Create the dashboard
