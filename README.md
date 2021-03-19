@@ -12,7 +12,7 @@ The purpose of this web application is to provide students of the computer scien
 * Create visually appealing webpages
 
 ## UI Prototype
-To see my progress on the user interface, please click here: 
+To see my progress on the user interface, please click here: https://www.figma.com/proto/PTUqaNz2nmfsCdjSWmm4F8/Office-Hours-Hub?node-id=9%3A49843&scaling=min-zoom
 
 ## Progress (will be updated throughout the duration of this project)
 *Last Updated: March 19, 2021*
