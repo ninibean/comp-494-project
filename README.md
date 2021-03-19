@@ -8,8 +8,8 @@ The purpose of this web application is to provide students of the computer scien
 ## Goals
 * Develop a deeper understanding of web development
 * Develop my HTML, CSS, and Javascript skills
-* Learn about React, a popular tool, and library used for web development
-* Create visually appealing webpages
+* Learn about React, a popular tool and library used for web development
+* Gain an understanding of the foundations of UI design
 
 ## UI Prototype
 To see my progress on the user interface, please click here: https://www.figma.com/proto/PTUqaNz2nmfsCdjSWmm4F8/Office-Hours-Hub?node-id=9%3A49843&scaling=min-zoom
