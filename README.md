@@ -24,4 +24,4 @@ To see my progress on the user interface, please click here: https://www.figma.c
 - [x] Create a simple page
 - [x] Create the landing page
 - [x] Create the dashboard
-- [x] Edit the dashboard to include: a menu, a calendar view, and a form
+- [ ] Edit the dashboard to include: a menu, a calendar view, and a form
