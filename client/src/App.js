@@ -1,5 +1,4 @@
 import React, {Component} from "react";
-// import Button from 'react-bootstrap/Button';
 import logo from './logo.svg';
 import './App.css';
 
@@ -40,9 +39,9 @@ class App extends Component {
             <h2> College of Engineering - Computer Science Department</h2>
           </div>
 
-          {/* <div className="login-button">
-            <Button variant="primary"> Login with Aggie OneID </Button>{' '}
-          </div> */}
+          <div className="login-button">
+            <button variant="primary" > Login with Aggie OneID </button>{' '}
+          </div>
         </body>
 
         < p classname="App-intro">{this.state.apiResponse}</p>
