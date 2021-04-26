@@ -42,24 +42,52 @@
   }
 }
 
-/* TODO: Make rectangles responsive */
 .Dashboard {
   overflow: auto;
   width: 100%;
 }
 
 .Menu-Rect {
-  width: 12%;
+  width: 20%;
   height: 100vh;
   float: left;
   background: #004684;
+  outline: none;
+}
+
+.Menu-Rect p {
+  width: 100% !important;
+  font-size: 1.5vw !important;
+}
+
+.Menu-Rect ul li {
+  width: 100% !important;
+  font-size: 1vw !important;
+  padding:0.5em 1em 0.5em 3em;
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+  font-weight:regular;
+  background-repeat:no-repeat;
+  background-position:left 15px center;
+  background-size:auto 20px;
+  transition:all 0.15s linear;
+  cursor:pointer;
+  color: #F5F5F5;
+  list-style: none;
+  padding:0.5em 0;
+  margin:0;
+
 }
 
 .Form-Div {
-  width: 82%;
+  width: 80%;
   height: 50vh;
-  padding-top: 50vh;
-  float: left;;
+  float: left;
+}
+
+.datepicker {
+  width: 80%;
+  height: 50vh;
+  float: left;
 }
 
 .rect1 {
@@ -83,177 +111,54 @@
 
 }
 
-.rect3 {
-  position: absolute;
-  width: 260px;
-  height: 1024px;
-  left: 0px;
-  top: 0px;
-  z-index: 2;
-
-  background: #013A76;
-}
-
-.rect4 {
-  /* display: inline-block; */
-  position: relative;
-  width: 180px;
-  height: 1024px;
-  left: 120px;
-  top: 89px;
-
-  background: #FDBA39;
-  z-index: 1;
-  border-radius: 10px;
-}
-
 .Welcome-Text {
   /* height: 100em; */
   padding-top: 200px;
   position: relative;
 }
 
-.Menu-Text {
-  width: 25%;
-  float: left;
-}
-
 p.static-title {
-  /* position: absolute; */
   width: 216px;
   height: 53px;
   left: 20px;
   top: 36px;
-
   font-family: Montserrat, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 1.375rem;
   line-height: 134.77%;
-  
-  /* or 30px */
   text-align: center;
   color: #F5F5F5;
   z-index: 3;
 }
 
 .welcome-message {
-  /* position: absolute; */
   width: 223px;
   height: 64px;
   left: 20px;
   top: 114px;
-
   font-family: Montserrat, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 1.375rem;
   line-height: 134.77%;
-
-  /* or 30px */
   text-align: center;
   color: #F5F5F5;
   z-index: 3;
 }
 
-#dash.dash-components {
-  /* position: absolute; */
-  width: 210px;
-  height: 64px;
-  left: 28px;
-  top: 203px;
-
-  font-family: Montserrat, Arial, Helvetica, sans-serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 1.375rem;
-  line-height: 134.77%;
-
-  /* or 30px */
-  display: flex;
-  align-items: center;
-  text-align: center;
-
-  color: #F5F5F5;
-  z-index: 3;
-
+.day-info {
+  font: 2em sans-serif;
 }
 
-#appoint.dash-components {
-
-  /* position: absolute; */
-  width: 210px;
-  height: 64px;
-  left: 28px;
-  top: 292px;
-
-  font-family: Montserrat, Arial, Helvetica, sans-serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 1.375rem;
-  line-height: 134.77%;
-
-  /* or 30px */
-  display: flex;
-  align-items: center;
-  text-align: center;
-
+legend {
+  background-color: #FDBA39;
   color: #F5F5F5;
-  z-index: 3;
-
+  font-size: xx-large;
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
 }
 
-#edit.dash-components {
-  /* position: absolute; */
-  width: 210px;
-  height: 64px;
-  left: 24px;
-  top: 381px;
-
+fieldset {
   font-family: Montserrat, Arial, Helvetica, sans-serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 1.375rem;
-  line-height: 134.77%;
-
-  /* or 30px */
-  display: flex;
-  align-items: center;
-  text-align: center;
-
-  color: #F5F5F5;
-  z-index: 3;
-
-}
-
-#logout.dash-components {
-  /* position: absolute; */
-  width: 210px;
-  height: 64px;
-  left: 24px;
-  bottom: 0px;
-
-  font-family: Montserrat, Arial, Helvetica, sans-serif;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 1.375rem;
-  line-height: 134.77%;
-
-  /* or 30px */
-  display: flex;
-  align-items: center;
-  text-align: center;
-  z-index: 3;
-
-  color: #F5F5F5;
-
-}
-
-.appointment-form {
-  /* position: absolute; */
-  font-family: Montserrat, Arial, Helvetica, sans-serif;
-  /* width: 887px;
-  height: 306px;
-  left: 600px;
-  top: 300px; */
+  background-color:#ffdb99;
 }
