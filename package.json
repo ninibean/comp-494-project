@@ -4,7 +4,9 @@
   "description": "The project chosen for this semester is to develop a web application using React App.",
   "main": "index.js",
   "dependencies": {
-    "concurrently": "^6.0.0"
+    "concurrently": "^6.0.0",
+    "jquery": "^3.6.0",
+    "react-day-picker": "^7.4.10"
   },
   "devDependencies": {},
   "scripts": {
