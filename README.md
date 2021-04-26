@@ -24,4 +24,6 @@ To see my progress on the user interface, please click here: https://www.figma.c
 - [x] Create a simple page
 - [x] Create the landing page
 - [x] Create the dashboard
-- [ ] Edit the dashboard to include: a menu, a calendar view, and a form
+- [x] Edit the dashboard to include: a menu, a calendar view, and a form
+- [ ] Configure the backend when clicking on a calendar date
+- [ ] Link App.js and Dashboard.js with a button
