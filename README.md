@@ -15,7 +15,7 @@ This project took place from Januray 2021 to May 2021, or for the entirety of th
 * Gain an understanding of the foundations of UI design
 
 ## UI Prototype
-To see my progress on the user interface, please click here: https://www.figma.com/proto/PTUqaNz2nmfsCdjSWmm4F8/Office-Hours-Hub?node-id=9%3A49843&scaling=min-zoom
+To see my progress on the user interface, please click here: https://www.figma.com/proto/PTUqaNz2nmfsCdjSWmm4F8/Office-Hours-Hub?node-id=65%3A189&scaling=contain&page-id=65%3A0
 
 ## Progress (will be updated throughout the duration of this project)
 *Last Updated: May 1, 2021*
