@@ -4,6 +4,8 @@ import $ from "jquery";
 import DayPicker from 'react-day-picker';
 import Calendar from "./components/calendar"
 import 'react-day-picker/lib/style.css';
+import App from "./App"
+import history from './history';
 
 const modifiers = {
   highlighted: new Date(2021, 3, 23),
@@ -42,7 +44,7 @@ class Dashboard extends Component {
               <li className="dash-components" id="dash"> Dashboard </li>
               <li className="dash-components" id="appoint"> Make An Appointment </li>
               <li className="dash-components" id="edit"> Edit Profile </li>
-              <li className="dash-components" id="logout"> Log Out </li>
+              <li className="dash-components" id="logout" onClick={() => history.push('/')}> Log Out </li>
           </ul>
         </div>
 

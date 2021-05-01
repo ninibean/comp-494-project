@@ -148,17 +148,18 @@ p.static-title {
 }
 
 .day-info {
-  font: 2em sans-serif;
+  font: 1em sans-serif;
 }
 
 legend {
   background-color: #FDBA39;
   color: #F5F5F5;
-  font-size: xx-large;
+  font-size: 2em;
   font-family: Montserrat, Arial, Helvetica, sans-serif;
 }
 
 fieldset {
   font-family: Montserrat, Arial, Helvetica, sans-serif;
   background-color:#ffdb99;
+  border-radius: 10px;
 }
