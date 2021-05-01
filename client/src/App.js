@@ -44,7 +44,7 @@ class App extends Component {
           </div>
 
           <div className="login-button">
-            <button variant="primary" onClick={() => history.push('/Dashboard')}> Login with Aggie OneID </button>{' '}
+            <button variant="primary" onClick={() => history.push('/Dashboard')}> Enter </button>{' '}
           </div>
         </body>
 
