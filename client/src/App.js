@@ -1,6 +1,10 @@
 import React, {Component} from "react";
 import logo from './logo.svg';
+import { useHistory, Router, Switch, Route } from 'react-router-dom';
 import './App.css';
+import'./Dashboard.js'
+import history from './history';
+
 
 class App extends Component {
   
@@ -19,7 +23,7 @@ class App extends Component {
   componentWillMount() {
       this.callAPI();
   }
-  
+
   render() {
     return (
       <div className="App">
@@ -40,7 +44,7 @@ class App extends Component {
           </div>
 
           <div className="login-button">
-            <button variant="primary" > Login with Aggie OneID </button>{' '}
+            <button variant="primary" onClick={() => history.push('/Dashboard')}> Enter </button>{' '}
           </div>
         </body>
 
@@ -51,5 +55,6 @@ class App extends Component {
   }
 
 }
+
 
 export default App;
